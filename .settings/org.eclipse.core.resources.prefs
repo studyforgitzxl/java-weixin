@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/index.jsp=UTF-8
+encoding//src/com/weixin/utils/JSApiUtils.java=UTF-8
+encoding//src/main/java/com/github/wxpay/sdk/IWXPayDomain.java=UTF-8
+encoding//src/main/java/com/github/wxpay/sdk/WXPay.java=UTF-8
+encoding//src/main/java/com/github/wxpay/sdk/WXPayConfig.java=UTF-8
+encoding//src/main/java/com/github/wxpay/sdk/WXPayReport.java=UTF-8
+encoding//src/main/java/com/github/wxpay/sdk/WXPayRequest.java=UTF-8
+encoding//src/main/java/com/github/wxpay/sdk/WXPayUtil.java=UTF-8
